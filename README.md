@@ -1,6 +1,7 @@
-![CleanShot 2025-10-01 at 20 11 30@2x](https://github.com/user-attachments/assets/b6ef8402-d367-4a99-b939-8f11dedf91d7)
 
 # 🚀 JSCamp InfoJobs
+
+![CleanShot 2025-10-01 at 20 11 30@2x](https://github.com/user-attachments/assets/b6ef8402-d367-4a99-b939-8f11dedf91d7)
 
 Bienvenidos al bootcamp intensivo de JavaScript y desarrollo web full-stack diseñado para llevarte desde los fundamentos hasta las tecnologías más avanzadas del ecosistema JavaScript. Veremos HTML, CSS, JavaScript, TypeScript, Node.js, SQL, CI/CD y Docker.
 
