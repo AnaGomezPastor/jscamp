@@ -1,0 +1,1 @@
+const jobsListingSection = document.querySelector('.jobs-listings');
